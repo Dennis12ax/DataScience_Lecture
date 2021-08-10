@@ -1,4 +1,4 @@
-# Seoul_Hospital_data_Science
+# 의료기관 상권 정보 분석하기
 ```
 [1-3] 서울 종합병원 분포 확인하기
 ```
