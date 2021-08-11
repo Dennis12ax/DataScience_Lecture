@@ -7,7 +7,7 @@
 
 ## 데이터셋
 
-- 1-3 : [공공데이터 포털](https://www.data.go.kr/data/15083033/fileData.do)
+- [1-3] : [공공데이터 포털](https://www.data.go.kr/data/15083033/fileData.do)
 
 
 
